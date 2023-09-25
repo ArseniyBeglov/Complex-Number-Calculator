@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+C:\Users\hp\Desktop\файлы вшэ\ООП\Labaratornaya1\Labaratornaya1\Calculator.cpp(202): warning C4715: Calculator::priority: значение возвращается не при всех путях выполнения
+  Labaratornaya1.vcxproj -> C:\Users\hp\Desktop\файлы вшэ\ООП\Labaratornaya1\Debug\Labaratornaya1.exe
